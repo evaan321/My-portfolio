@@ -38,6 +38,7 @@ section {
 
 .first-section {
 
+
     background-image: url(images/top-banner.png);
 
     background-repeat: no-repeat;
@@ -68,5 +69,37 @@ section {
 
 .neww {
 
-    width: 50%;
+    width: 40%;
+
+    margin-left: 7%;
+
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px lightblue;
+
+    padding-left: 5%;
+    padding-right: 5%;
+
+    margin-bottom: 20px;
+
+    border-left: 10px solid yellow;
+}
+
+.onlyimg {
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
+
+
+
+
+}
+
+#yo {
+
+    border-left: 10px solid coral;
+}
+
+#janina {
+    font-size: larger;
 }
