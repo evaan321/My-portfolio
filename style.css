@@ -42,3 +42,31 @@ section {
 
     background-repeat: no-repeat;
 }
+
+.quote {
+
+    font-size: 200%;
+
+    font-weight: 600;
+}
+
+.link-button2 {
+    margin-left: 350px;
+
+    text-decoration: none;
+
+    padding: 10px 40px;
+
+
+    background-image: linear-gradient(orange, red);
+    border-radius: 20px;
+
+    color: white;
+
+    font-weight: 700;
+}
+
+.neww {
+
+    width: 50%;
+}
